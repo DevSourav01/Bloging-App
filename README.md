@@ -127,7 +127,8 @@ blogs (collection)
 ## 📸 Screenshot
 
 > Add a screenshot here!
-> Press **Win + Shift + S** → snip → drag into GitHub
+<img width="793" height="605" alt="image" src="https://github.com/user-attachments/assets/8aa6bb96-9c0a-4a10-8a20-4948cf60c9ab" />
+
 
 ## 👨‍💻 Author
 
