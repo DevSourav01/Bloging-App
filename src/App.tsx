@@ -121,7 +121,7 @@ function App() {
           <h1 className="text-4xl md:text-5xl font-black text-white
                          tracking-tight leading-tight">
             My{" "}
-            <span className="bg-gradient-to-r from-violet-400
+            <span className="bg-linear-to-r from-violet-400
                              to-pink-400 bg-clip-text text-transparent">
               Blog
             </span>
@@ -175,7 +175,7 @@ function App() {
             <button
               onClick={addBlog}
               disabled={loading || !title.trim() || !content.trim()}
-              className="bg-gradient-to-r from-violet-600 to-pink-600
+              className="bg-linear-to-r from-violet-600 to-pink-600
                          hover:from-violet-500 hover:to-pink-500
                          disabled:opacity-40 disabled:cursor-not-allowed
                          active:scale-95 text-white font-semibold
